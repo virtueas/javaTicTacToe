@@ -1,3 +1,3 @@
 # javaTicTacToe
-practice program
-Nothing much to know here.
+- practice program
+- Nothing much to know here.
